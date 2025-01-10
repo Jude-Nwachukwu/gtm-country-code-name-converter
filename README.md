@@ -1,4 +1,4 @@
-# GTM Country Code & Name Converter
+# GTM Country ISO Code (Alpha-2 & Alpha-3 code) & Name Converter
 
 ## Description
 The **Country Code & Name Converter** is a Google Tag Manager (GTM) custom variable template that enables seamless conversion between country names, Alpha-2 codes, and Alpha-3 codes. The template includes advanced options for handling invalid or unrecognized input.
