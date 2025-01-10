@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/gtm-country-code-name-converter
+versions:
+  - sha: 2a4ce92a95002893c337df30906ac4a9a2da2744
+    changeNotes: Initial release.
